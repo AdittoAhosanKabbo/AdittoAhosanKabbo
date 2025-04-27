@@ -64,33 +64,52 @@
 <h2 align="center">
 <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboard
 </h2>
-<dev> 
+<div> 
 
 
 
-</dev>
+</div>
 
 ---
 <h2 align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql" width="30" height="30" align="top"/> SQL Project
 </h2>
-<dev> 
+<div> 
 
 
 
-</dev>
+</div>
 
 ---
 <h2 align="center">
 🧑🏽‍🎓 Certificates
 </h2>
-<dev> 
+<div> 
 
 
 
-</dev>
+</div>
 
 ---
+<div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <a href="#">
+      <img align="left" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=AdittoAhosanKabbo&theme=transparent_radius=10&border=61DAFB" />
+    </a>
+    <a href="#">
+      <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=AdittoAhosanKabbo&show_icons=true&theme=transparent_color=61dafb&border_radius=10&rank_icon=github" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+
+</div>
+
+  ---
+
+
+
 
 
 
