@@ -108,8 +108,25 @@
 
   ---
 
+<div align="center">
+    
+###
+
+ <img src="https://raw.githubusercontent.com/AdittoAhosanKabbo/AdittoAhosanKabbo/output/snake.svg" alt="Snake animation" />
 
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AdittoAhosanKabbo/count.svg?"  />
+</div>
 
+   <br/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
 
+</div>
+
+---
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
 
