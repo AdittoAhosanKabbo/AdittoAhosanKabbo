@@ -25,8 +25,9 @@
 
 
 ---
+
+<h2 align="center">Connect with me🤝</h2><br>
 <div>
-<h3 align="left">Connect with me🤝</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adittoahosankabbo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvardhan singh parmar" height="30" width="40" /></a>    
 <a href="https://www.facebook.com/Adittoahosan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robin.singh_13" height="30" width="40" /></a>
@@ -37,5 +38,59 @@
   
 </div>
 
+---
+
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br>
+
+<div align="left">
+  
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" alt="numpy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"  alt="R" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg"  alt="spss" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>      
+          
+</div>
+
 
 ---
+<h2 align="center">
+<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboard
+</h2>
+<dev> 
+
+
+
+</dev>
+
+---
+<h2 align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql" width="30" height="30" align="top"/> SQL Project
+</h2>
+<dev> 
+
+
+
+</dev>
+
+---
+<h2 align="center">
+🧑🏽‍🎓 Certificates
+</h2>
+<dev> 
+
+
+
+</dev>
+
+---
+
+
+
