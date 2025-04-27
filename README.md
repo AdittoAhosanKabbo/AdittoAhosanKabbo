@@ -96,7 +96,7 @@
 <br>
 <div align=center>
     <a href="#">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AdittoAhosanKabbo&theme=transparent_radius=10&border=61DAFB" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AdittoAhosanKabbo&theme=transparent_radius=10" />
     </a>
     <a href="#">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AdittoAhosanKabbo&show_icons=true&theme=transparent_color=61dafb&border_radius=10&rank_icon=github" />
