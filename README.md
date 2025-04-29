@@ -7,9 +7,9 @@
 ---
 <div align="left">
   
-**🎓 Pursuing my Bachelor’s degree in Statistics.**
+**🎓 Pursuing my Bachelor’s degree in Statistics at Pabna University of Science and Technology.**
 
-**🛠️ I’m skilled in Power BI, SQL, Python, Advanced Excel, Google Sheets, and R.**
+**🛠️ I’m skilled in Power BI, SQL, Python, Advanced Excel, Google Sheets,SPSS and R.**
 
 **📊 Passionate about transforming raw data into actionable insights.**
 
