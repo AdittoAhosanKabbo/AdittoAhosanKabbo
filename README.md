@@ -251,7 +251,21 @@
     
 ###
 
- <img src="https://raw.githubusercontent.com/AdittoAhosanKabbo/AdittoAhosanKabbo/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdittoAhosanKabbo/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdittoAhosanKabbo/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/AdittoAhosanKabbo/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -270,24 +284,4 @@
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AdittoAhosanKabbo/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AdittoAhosanKabbo/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/AdittoAhosanKabbo/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-
-
-
-![Snake animation](https://raw.githubusercontent.com/{AdittoAhosanKabbo}/{AdittoAhosanKabbo}/output/github-contribution-grid-snake-dark.svg)
 
