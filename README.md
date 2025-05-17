@@ -204,7 +204,9 @@
 <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboard
 </h2>
 <div> 
-
+<p>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMTc3MDA2N2UtYmU3Mi00ZjFiLWExNWEtMWE5NDI4NjYxNmJhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9"><img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/inventory_thumnail.png" width ="30%"></a>
+</p>
 
 
 </div>
