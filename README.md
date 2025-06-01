@@ -204,12 +204,19 @@
 <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboard
 </h2>
 <div> 
-<p>
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiMTc3MDA2N2UtYmU3Mi00ZjFiLWExNWEtMWE5NDI4NjYxNmJhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9"><img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/inventory_thumnail.png" width ="30%"></a>
 
-  <a href="https://app.powerbi.com/links/LaO3sS2_9J?ctid=c5231bba-1f6f-456d-bf83-99aae6472411&pbi_source=linkShare"><img src="https://github.com/AdittoAhosanKabbo/HR_Analytics_Power_Bi_Project/blob/main/Assets/hr%20analytics%20pbi%20cover.png" width ="30%"></a>
-  
+<p>
+     <a href="https://app.powerbi.com/view?r=eyJrIjoiMTc3MDA2N2UtYmU3Mi00ZjFiLWExNWEtMWE5NDI4NjYxNmJhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9"><img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/inventory_thumnail.png" width ="30%"></a>
+    <a href="https://app.powerbi.com/links/LaO3sS2_9J?ctid=c5231bba-1f6f-456d-bf83-99aae6472411&pbi_source=linkShare"><img src="https://github.com/AdittoAhosanKabbo/HR_Analytics_Power_Bi_Project/blob/main/Assets/hr%20analytics%20pbi%20cover.png" width ="28.5%"></a>
+    
 </p>
+
+
+
+
+
+
+
 
 
 </div>
