@@ -207,7 +207,7 @@
 
 <p>
      <a href="https://app.powerbi.com/view?r=eyJrIjoiMTc3MDA2N2UtYmU3Mi00ZjFiLWExNWEtMWE5NDI4NjYxNmJhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9"><img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/inventory_thumnail.png" width ="30%"></a>
-    <a href="https://github.com/AdittoAhosanKabbo/HR_Analytics_Power_Bi_Project"><img src="https://github.com/AdittoAhosanKabbo/HR_Analytics_Power_Bi_Project/blob/main/Assets/hr%20analytics%20pbi%20cover.png" width ="28.5%"></a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiNWMzNTI1OTMtYWFjNy00YzE4LTg4ZDgtNjRhNGY2NDJjNTQxIiwidCI6IjYwMTQzNDU2LTYxYjYtNGZkYy04Y2Q1LTFiNWQwNzA5NTA5NiIsImMiOjEwfQ%3D%3D&pageName=0f30f9a45c28fa0912c6"><img src="https://github.com/AdittoAhosanKabbo/HR_Analytics_Power_Bi_Project/blob/main/Assets/hr%20analytics%20pbi%20cover.png" width ="28.5%"></a>
     
 </p>
 
