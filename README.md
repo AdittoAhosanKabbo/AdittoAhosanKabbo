@@ -10,6 +10,7 @@
 
 ---
 <div align="left">
+<img align="right" src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/coder.gif" width="380" height="300">
   
 **🎓 Pursuing my Bachelor’s degree in Statistics at Pabna University of Science and Technology.**
 
