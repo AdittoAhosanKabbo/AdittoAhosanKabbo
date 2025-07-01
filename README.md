@@ -237,7 +237,9 @@
 🧑🏽‍🎓 Certificates
 </h2>
 <div> 
-
+<img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/py.png" width ="30%">
+<img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/r.png" width ="30%">
+<img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/excel.png" width ="31.7%">
 
 
 </div>
