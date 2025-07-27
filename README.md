@@ -253,9 +253,12 @@
 <br>
   
 <div align=center>
-  <a href="#">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=AdittoAhosanKabbo&show_icons=true&theme=transparent_color=61dafb&border_radius=10&rank_icon=github" />
-    </a>
+<a href="#">
+  <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=AdittoAhosanKabbo&show_icons=true&theme=transparent&title_color=61dafb&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="#">
+  <img align="center" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdittoAhosanKabbo&layout=compact&theme=transparent&border_radius=10" alt="Top Languages" />
+</a>
   </div>
 
 </div>
@@ -270,10 +273,11 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AdittoAhosanKabbo/count.svg?"  />
-</div>
+<img src="https://komarev.com/ghpvc/?username=AdittoAhosanKabbo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></div>
 
    <br/>
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/> <br>
+
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
@@ -282,6 +286,35 @@
 ---
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
