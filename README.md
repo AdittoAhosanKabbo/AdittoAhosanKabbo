@@ -276,7 +276,7 @@
 <img src="https://komarev.com/ghpvc/?username=AdittoAhosanKabbo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></div>
 
    <br/>
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/> <br>
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&border_radius=10" alt="Random Dev Quote"/> <br>
 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
