@@ -199,6 +199,26 @@
           
 </div>
 
+---
+<h2 align="center">
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="30" height="30" align="top"/> Excel Dashboard
+</h2>
+<div> 
+
+<p>
+     <a href="https://github.com/AdittoAhosanKabbo/FoodPanda_Sales_Analysis_Excel_Project"><img src="https://github.com/AdittoAhosanKabbo/FoodPanda_Sales_Analysis_Excel_Project/blob/main/Assets/foodpandacov.png" width ="30%"></a>
+
+</p>
+
+
+
+
+
+
+
+
+
+</div>
 
 ---
 <h2 align="center">
