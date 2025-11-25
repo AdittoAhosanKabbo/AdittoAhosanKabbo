@@ -1,3 +1,6 @@
+
+
+
 <p align="center">
   <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/covergithub.png" width="100%" alt="Cover Image"/>
 </p>
@@ -11,7 +14,11 @@
 ---
 <img align="right" src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/coder.gif" width="380" height="300">
 
-🎓 **Pursuing my Bachelor’s degree in Statistics at Pabna University of Science and Technology.**
+### 👨‍🎓 About Me  
+
+**Data Analyst | Statistics Student (PUST) | Power BI • SQL • Python • Excel • R • SPSS**
+
+Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, currently pursuing a Bachelor's degree in **Statistics at Pabna University of Science and Technology (PUST)**.  
 
 🛠️ **Skilled in Power BI, SQL, Python, Advanced Excel, Google Sheets, SPSS, and R.**
 
