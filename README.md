@@ -9,25 +9,21 @@
 </div>
 
 ---
-<div align="left">
 <img align="right" src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/coder.gif" width="380" height="300">
-  
-**🎓 Pursuing my Bachelor’s degree in Statistics at Pabna University of Science and Technology.**
 
-**🛠️ I’m skilled in Power BI, SQL, Python, Advanced Excel, Google Sheets,SPSS and R.**
+🎓 **Pursuing my Bachelor’s degree in Statistics at Pabna University of Science and Technology.**
 
-**📊 Passionate about transforming raw data into actionable insights.**
+🛠️ **Skilled in Power BI, SQL, Python, Advanced Excel, Google Sheets, SPSS, and R.**
 
-**🌱 Currently enhancing my SQL skills.**
+📊 **Passionate about transforming raw data into actionable insights.**
 
-**💬 Feel free to ask me about Data Analysis.**
+🌱 **Currently enhancing my SQL skills.**
 
-**🤝 I’m looking to collaborate on a full-time Data Analyst job or Learning projects.**
+💬 **Feel free to ask me about Data Analysis.**
 
-**🔎 Fun Fact: Data analysts are like storytellers — they turn rows of raw data into powerful stories that drive decisions.**
+🤝 **Looking to collaborate on a full-time Data Analyst job or learning projects.**
 
-</div>
-
+🔎 **Fun Fact: Data analysts are like storytellers — they turn rows of raw data into powerful stories that drive decisions.**
 
 ---
 
