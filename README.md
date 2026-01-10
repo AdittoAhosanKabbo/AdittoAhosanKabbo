@@ -103,8 +103,7 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg"  alt="spss" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>   
-  
--->
+  -->
 <table>
   <tr>
     <td align="center" width="120">
@@ -270,6 +269,16 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 
 </div>
 
+
+---
+
+
+📩 Open to:
+- Data Analyst roles
+- Business Intelligence positions
+- Analytics internships / entry-level roles
+
+
 ---
 <h2 align="center">
 🧑🏽‍🎓 Certificates
@@ -285,21 +294,6 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 
 </div>
 
----
-<div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-  
-<div align=center>
-<a href="#">
-  <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=AdittoAhosanKabbo&show_icons=true&theme=transparent&title_color=61dafb&border_radius=10&rank_icon=github" alt="GitHub Stats" />
-</a>
-<a href="#">
-  <img align="center" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdittoAhosanKabbo&layout=compact&theme=transparent&border_radius=10" alt="Top Languages" />
-</a>
-  </div>
-
-</div>
 
   ---
 
