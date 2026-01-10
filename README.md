@@ -32,7 +32,19 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 
 🤝 **Looking to collaborate on a full-time Data Analyst job or learning projects.**
 
-🔎 **Fun Fact: Data analysts are like storytellers — they turn rows of raw data into powerful stories that drive decisions.**
+🔎 **Fun Fact: Data analysts are like storytellers — they turn rows of raw data into powerful stories that drive decisions.**  <br> 
+
+<p align="center">
+  <a href="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/kabbo%20resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
+  <a href="https://ahosankabbo.me">
+    <img src="https://img.shields.io/badge/Portfolio-ahosankabbo.me-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+
+
 
 ---
 
@@ -51,7 +63,7 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robin.singh_13" height="30" width="40" /></a>    <br><sub><b>Facebook</b></sub>
 </td>
      <td align="center" width="96" style="padding: 5px;">
-        <a href="https://wa.me/8801749018051?text=hello">
+        <a href="https://wa.me/8801721703856?text=hello">
           <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp" />
         </a>
         <br /><sub><b>WhatsApp</b></sub>
@@ -90,7 +102,8 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"  alt="R" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg"  alt="spss" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>   
+  
 -->
 <table>
   <tr>
