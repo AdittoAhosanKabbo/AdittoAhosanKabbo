@@ -295,14 +295,26 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 <h2 align="center">
 🧑🏽‍🎓 Certificates
 </h2>
-<div> 
-<img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/py.png" width ="30%">
-<img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/r.png" width ="30%">
-<img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/excel.png" width ="31.7%">
-  <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/sql%20certificate.png" width ="33%">
 
+<div align="center"> 
+  
+  <!-- Row 1: Python, R, and Excel -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/J72QQWLZZ2UV" target="_blank" title="Google Crash Course on Python">
+    <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo.github.io/blob/main/assets/images/certificates/py.png?raw=true" width="30%" alt="Crash Course on Python">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/9WFH7KS9QLH6" target="_blank" title="Google Data Analysis with R">
+    <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo.github.io/blob/main/assets/images/certificates/r.png?raw=true" width="30%" alt="Data Analysis with R">
+  </a>
+  <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo.github.io/blob/main/assets/images/certificates/exceledgecourse.png?raw=true" width="33%" alt="Microsoft Word & Excel Edge Project">
 
+  <br><br>
 
+  <!-- Row 2: DataCamp SQL, Indian Data Club SQL, and Solver Green Research -->
+  <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo.github.io/blob/main/assets/images/certificates/sql%20certificate.png?raw=true" width="34%" alt="Intermediate SQL DataCamp">
+  <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo.github.io/blob/main/assets/images/certificates/idc%20sql.png?raw=true" width="29%" alt="21 Days SQL Challenge IDC">
+  <img src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo.github.io/blob/main/assets/images/certificates/solvergreen.png?raw=true" width="31%" alt="Unlocking Research Solver Green">
+
+</div>
 
 </div>
 
