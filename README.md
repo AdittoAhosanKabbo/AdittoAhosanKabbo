@@ -270,7 +270,7 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 </div>
 
 <h2 align="center">
-<img src="https://img.icons8.com/color/48/survey.png" alt="Research Survey" width="30" height="30" align="top"/> Field Research & Survey Project
+<img src="https://img.icons8.com/color/48/survey.png" alt="Research Survey" width="30" height="30" align="top"/> Research & Survey Project
 </h2>
 <div> 
 
