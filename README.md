@@ -269,6 +269,18 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 
 </div>
 
+<h2 align="center">
+<img src="https://img.icons8.com/color/48/survey.png" alt="Research Survey" width="30" height="30" align="top"/> Field Research & Survey Project
+</h2>
+<div> 
+
+
+
+<p>
+     <a href="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey"><img src="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey/blob/main/Assets/presentation%20cover%201.png" width ="30%"></a>
+
+</div>
+
 
 ---
 
