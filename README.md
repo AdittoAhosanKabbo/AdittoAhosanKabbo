@@ -277,7 +277,7 @@ Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, 
 
 
 <p>
-     <a href="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey"><img src="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey/blob/main/Assets/presentation%20cover%201.png" width ="30%"></a>
+     <a href="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey"><img src="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey/blob/main/Assets/Analysis/cover.png" width ="30%"></a>
 
 </div>
 
