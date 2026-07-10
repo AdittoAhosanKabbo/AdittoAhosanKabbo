@@ -12,41 +12,55 @@
 </div>
 
 ---
-<img align="right" src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/coder.gif" width="380" height="300">
-<img align="right" src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/flow.gif" width="300" height="300">
+<img align="right" src="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/flow.gif" width="400" height="400">
 
 
 ### 👨‍🎓 About Me  
 
-**Data Analyst | Statistics Student (PUST) | Power BI • SQL • Python • Excel • R • SPSS**
+**Aspiring Data Scientist | ML DL NLP | Power BI • SQL • Python • Excel • R • SPSS**
 
-Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Analyst from **Bangladesh**, currently pursuing a Bachelor's degree in **Statistics at Pabna University of Science and Technology (PUST)**.  
+Hi! I'm **Aditto Ahosan Kabbo**, a passionate Data Scientist from **Bangladesh**, currently pursuing a Bachelor's degree in **Statistics at Pabna University of Science and Technology (PUST)**.  
 
 🛠️ **Skilled in Power BI, SQL, Python, Advanced Excel, Google Sheets, SPSS, and R.**
 
-📊 **Passionate about transforming raw data into actionable insights.**
+🌱 **Currently expanding my knowledge in Machine Learning, Deep Learning, NLP, and advanced Big data analytics..**
 
-🌱 **Currently enhancing my SQL skills.**
-
-💬 **Feel free to ask me about Data Analysis.**
+💬 **Feel free to ask me about Machine learning,Deep Learning and Data Analysis.**
 
 🤝 **Looking to collaborate on a full-time Data Analyst job or learning projects.**
 
 🔎 **Fun Fact: Data analysts are like storytellers — they turn rows of raw data into powerful stories that drive decisions.**  <br> 
 
 <p align="center">
-  <a href="https://github.com/AdittoAhosanKabbo/AdittoAhosanKabbo/blob/main/Assets/kabbo%20resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+
+  <a href="https://drive.google.com/file/d/1LBX1-y_vXexAxQQMJGzYK0nX2Mis5XBq/view" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Resume-View_PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="View Resume"
+    />
   </a>
-  <a href="https://ahosankabbo.me">
-    <img src="https://img.shields.io/badge/Portfolio-ahosankabbo.me-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
+
+  <a href="https://drive.google.com/file/d/1XifShorXffBsU6EVl-ehTwfF-5uTZz1L/view" target="_blank">
+    <img
+      src="https://img.shields.io/badge/CV-View_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
+      alt="View CV"
+    />
   </a>
+
+  <a href="https://adittoahosankabbo.github.io" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Visit Portfolio"
+    />
+  </a>
+
 </p>
 
 
 
-
 ---
+
+
 
 <h2 align="center">Connect with me🤝</h2><br>
 <div>
